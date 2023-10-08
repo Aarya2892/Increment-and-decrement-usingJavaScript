@@ -1,0 +1,49 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(219, 79, 14, 0.327);
+    flex-direction: column;
+    gap: 20px;
+}
+.heading{
+    color: rgb(8, 23, 97);
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 25px;
+  }
+  #inbtn{
+    background-color: crimson;
+    width: 50px;
+    font-size: 30px;
+    text-align: center;
+  }
+  #decbtn{
+    background-color: crimson;
+    width: 50px;
+    font-size: 30px;
+    text-align: center;
+  }
+  #valuebtn{
+    background-color: crimson;
+    width: 50px;
+    font-size: 30px;
+    text-align: center;
+  }
+  #reset{
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #282c34;
+    color: aliceblue;
+  }
+  
